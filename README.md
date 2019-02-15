@@ -7,7 +7,7 @@ TODO
 ## BOOK
 - 《Developer Evangelism》
 - 《The Macintonsh Way》 由 适兕 推荐
-- 《The art of community》 Jono Bacon 由 Richard、适兕 推荐
+- 《The art of community》 https://www.jonobacon.com/books/artofcommunity/  Jono Bacon 由 Richard、适兕 推荐
 - 《The new kingmaker》 由 适兕 推荐
 
 
