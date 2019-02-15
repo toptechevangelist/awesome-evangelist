@@ -5,10 +5,9 @@ TODO
 
 
 ## BOOK
-- Jono Bacon 的书  由 Richard 推荐
 - 《Developer Evangelism》
 - 《The Macintonsh Way》 由 适兕 推荐
-- 《The art of community》 由 适兕 推荐
+- 《The art of community》 Jono Bacon 由 Richard、适兕 推荐
 - 《The new kingmaker》 由 适兕 推荐
 
 
