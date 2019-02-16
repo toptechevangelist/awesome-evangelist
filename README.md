@@ -7,6 +7,7 @@ TODO
 ## COMMUNITY & CONFERENCE 
 - TCWORLD  http://www.tcworld.info/ 
 - tcworld中国技术传播大会  https://www.tcworld-china.cn/
+- OpenTechSummit https://opentechsummit.net/ OpenTechSummit China 2018 https://opentechsummit.cn/
 
 
 ## BOOK
@@ -24,6 +25,7 @@ TODO
 
 
 ## MORE 
-TODO 
-
+- Google Open Source https://opensource.google.com/      Github  https://github.com/google
+- Facebook Open Source https://opensource.fb.com/  Github  https://github.com/facebook
+- Alibaba Open Source  https://yq.aliyun.com/opensource  Github  https://github.com/alibaba/ 
 
