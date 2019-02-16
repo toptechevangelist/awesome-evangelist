@@ -5,8 +5,7 @@ TODO
 
 
 ## COMMUNITY & CONFERENCE 
-- TCWORLD  http://www.tcworld.info/ 
-- tcworld中国技术传播大会  https://www.tcworld-china.cn/
+- TCWORLD  http://www.tcworld.info/  tcworld中国技术传播大会  https://www.tcworld-china.cn/
 - OpenTechSummit https://opentechsummit.net/ OpenTechSummit China 2018 https://opentechsummit.cn/
 
 
