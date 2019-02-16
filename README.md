@@ -4,6 +4,11 @@
 TODO 
 
 
+## COMMUNITY & CONFERENCE 
+- TCWORLD  http://www.tcworld.info/ 
+- tcworld中国技术传播大会  https://www.tcworld-china.cn/
+
+
 ## BOOK
 - 《Developer Evangelism》
 - 《The Macintonsh Way》 由 适兕 推荐
@@ -14,6 +19,7 @@ TODO
 
 ## PAPER & ARTICLE
 - 开源之道文献推荐列表  http://www.ocselected.org/posts/paper_or_book_reading/opensource_paper_list/ 
+
 
 
 
