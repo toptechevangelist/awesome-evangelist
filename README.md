@@ -1,4 +1,4 @@
-# Awesome for top tech evangelist 
+# Awesome for top tech evangelist (TTE)
 
 ## LEADING EXPONENT
 TODO 
