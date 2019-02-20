@@ -23,7 +23,7 @@
 
 ## PRESETATION & VIDEO
 - The Linux Foundation - Collaboration Summit 2013 San Francisco, California 
-  Give a Great Tech Talk By Josh BerkusCollaboration 
+  《Give a Great Tech Talk》 By Josh Berkus  
   - Part 1 https://www.youtube.com/watch?v=iE9y3gyF8Kw
   - Part 2 https://www.youtube.com/watch?v=gcOP4WQfJl4 
 
