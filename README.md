@@ -3,6 +3,8 @@
 ## LEADING EXPONENT
 - Vint Cerf Google首席布道师，互联网之父
 - Guy Kawasaki（盖伊·川崎），前苹果布道师 
+- PHP 鸟哥  惠新宸 
+- Linux 鸟哥 蔡德明 
 
 
 ## COMMUNITY & CONFERENCE 
