@@ -10,10 +10,10 @@ TODO
 
 
 ## BOOK
-- 《Developer Evangelism》
-- 《The Macintonsh Way》 由 适兕 推荐
-- 《The art of community》 https://www.jonobacon.com/books/artofcommunity/  Jono Bacon 由 Richard、适兕 推荐
-- 《The new kingmaker》 由 适兕 推荐
+- 《Developer Evangelism》By Christian Heilmann  http://developer-evangelism.com/
+- 《The Macintonsh Way》By  Guy Kawasaki https://book.douban.com/subject/2061193/ （由 适兕 推荐）
+- 《The art of community》 https://www.jonobacon.com/books/artofcommunity/  Jono Bacon （由 Richard、适兕 推荐）
+- 《The new kingmaker》By Stephen O'Grady  https://thenewkingmakers.com/ （由 适兕 推荐）
 - 《布道之道》 https://book.douban.com/subject/6990284/  原作名: Driving Technical Change  作者：Terrence Ryan 译者: 李松峰 / 李缨
 
 
