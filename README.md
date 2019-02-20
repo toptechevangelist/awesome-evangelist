@@ -21,6 +21,14 @@
 - 《布道之道》 https://book.douban.com/subject/6990284/  原作名: Driving Technical Change  作者：Terrence Ryan 译者: 李松峰 / 李缨
 
 
+## PRESETATION & VIDEO
+- The Linux Foundation - Collaboration Summit 2013 San Francisco, California 
+  Give a Great Tech Talk By Josh BerkusCollaboration 
+  - Part 1 https://www.youtube.com/watch?v=iE9y3gyF8Kw
+  - Part 2 https://www.youtube.com/watch?v=gcOP4WQfJl4 
+
+
+
 ## PAPER & ARTICLE
 - 开源之道文献推荐列表  http://www.ocselected.org/posts/paper_or_book_reading/opensource_paper_list/ 
 
