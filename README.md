@@ -1,7 +1,8 @@
 # Awesome for top tech evangelist (TTE)
 
 ## LEADING EXPONENT
-TODO 
+- Vint Cerf Google首席布道师，互联网之父
+- Guy Kawasaki（盖伊·川崎），前苹果布道师 
 
 
 ## COMMUNITY & CONFERENCE 
