@@ -1,4 +1,4 @@
-# Awesome for top tech evangelist (TTE)
+# Awesome for Top Tech Evangelist (TTE)
 
 ## LEADING EXPONENT
 - Vint Cerf Google首席布道师，互联网之父
