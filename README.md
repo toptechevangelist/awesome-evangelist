@@ -1,14 +1,18 @@
 # Awesome for Top Tech Evangelist (TTE)
 
-## LEADING EXPONENT
+致力于为优秀的技术传播与技术布道者提供专业的交流平台！
+
+## LEADING EXPONENT & KOL
 - Vint Cerf Google首席布道师，互联网之父
 - Guy Kawasaki（盖伊·川崎），前苹果布道师 
 - 蔡学镛 
 - PHP 鸟哥  惠新宸 
 - Linux 鸟哥 蔡德明 
 
+## OPEN SOURCE PROJECT LEADER
 
-## COMMUNITY & CONFERENCE & Meetup
+
+## COMMUNITY & CONFERENCE & MEETUP
 - TCWORLD  http://www.tcworld.info/  tcworld中国技术传播大会  https://www.tcworld-china.cn/
 - OpenTechSummit https://opentechsummit.net/ OpenTechSummit China 2018 https://opentechsummit.cn/
 
@@ -28,10 +32,8 @@
   - Part 2 https://www.youtube.com/watch?v=gcOP4WQfJl4 
 
 
-
 ## PAPER & ARTICLE
 - 开源之道文献推荐列表  http://www.ocselected.org/posts/paper_or_book_reading/opensource_paper_list/ 
-
 
 
 
