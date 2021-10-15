@@ -6,10 +6,20 @@
 - Vint Cerf Google首席布道师，互联网之父
 - Guy Kawasaki（盖伊·川崎），前苹果布道师 
 - 蔡学镛 
-- PHP 鸟哥  惠新宸 
-- Linux 鸟哥 蔡德明 
+- PHP  惠新宸 鸟哥
+- Linux 蔡德明 鸟哥 
+- More ...
 
 ## OPEN SOURCE PROJECT LEADER
+- Yaf 惠新宸 Laruence鸟哥
+- OpenResty 章亦春 
+- RT-Thread https://github.com/RT-Thread/rt-thread 
+- Apache Kylin http://kylin.apache.org/   韩卿 
+- TDEngine  https://github.com/taosdata/TDengine 陶建辉 
+- ECharts  https://echarts.apache.org/ 林峰 
+- APISIX https://github.com/apache/incubator-apisix/  
+- Cocos2d-x 
+- More ...
 
 
 ## COMMUNITY & CONFERENCE & MEETUP
