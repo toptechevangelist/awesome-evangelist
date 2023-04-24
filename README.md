@@ -29,11 +29,11 @@
 
 
 ## BOOK
-- 《Developer Evangelism》By Christian Heilmann  http://developer-evangelism.com/
+- 《~~Developer Evangelism~~The Developer Advocacy Handbook》By Christian Heilmann  ~~http://developer-evangelism.com/~~ https://developer-advocacy.com/ 中文翻译版 《[开发者布道手册](https://jimmysong.io/developer-advocacy-handbook/) 》 译者：宋净超 
 - 《The Macintonsh Way》By  Guy Kawasaki https://book.douban.com/subject/2061193/ （由 适兕 推荐）
-- 《The art of community》 https://www.jonobacon.com/books/artofcommunity/  Jono Bacon （由 Richard、适兕 推荐）
+- 《The art of community》By Jono Bacon https://www.jonobacon.com/books/artofcommunity/ （由 Richard、适兕 推荐）
 - 《The new kingmaker》By Stephen O'Grady  https://thenewkingmakers.com/ （由 适兕 推荐）
-- 《布道之道》 https://book.douban.com/subject/6990284/  原作名: Driving Technical Change  作者：Terrence Ryan 译者: 李松峰 / 李缨
+- 《Driving Technical Change》By Terrence Ryan https://pragprog.com/titles/trevan/driving-technical-change/ 中文翻译版 [布道之道]https://book.douban.com/subject/6990284/  译者: 李松峰 / 李缨
 
 
 ## PRESETATION & VIDEO
