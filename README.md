@@ -53,8 +53,8 @@
 - Alibaba Open Source  https://yq.aliyun.com/opensource  Github  https://github.com/alibaba/ 
 
 # Welcome your contribution !
-- Create a new issue to descripe your idea 
-- Wait to discussion and review 
-- Give your solution and send pull request(PR) 
-- Wait to review and merge 
-- Congratulate yourself on your first PR !
+1. Create a new issue to descripe your idea 
+2. Wait to discussion and review 
+3. Give your solution and send pull request(PR) 
+4. Wait to review and merge 
+5. Congratulate yourself on your first PR !
