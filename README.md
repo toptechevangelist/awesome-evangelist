@@ -3,15 +3,16 @@
 致力于为优秀的技术传播与技术布道者提供专业的交流平台！
 
 ## LEADING EXPONENT & KOL
+
 - Vint Cerf Google首席布道师，互联网之父
 - Guy Kawasaki（盖伊·川崎），前苹果布道师 
 - 蔡学镛 
 - PHP  惠新宸 鸟哥
 - Linux 蔡德明 鸟哥 
-- More ...
+- More ... 
 
 ## OPEN SOURCE PROJECT LEADER
-- Yaf 惠新宸 Laruence鸟哥
+- Yaf 惠新宸 Laruence鸟哥 
 - OpenResty 章亦春 
 - RT-Thread https://github.com/RT-Thread/rt-thread 
 - Apache Kylin http://kylin.apache.org/   韩卿 
@@ -22,7 +23,7 @@
 - More ...
 
 
-## COMMUNITY & CONFERENCE & MEETUP
+## COMMUNITY & CONFERENCE & MEETUP 
 - TCWORLD  http://www.tcworld.info/  tcworld中国技术传播大会  https://www.tcworld-china.cn/
 - OpenTechSummit https://opentechsummit.net/ OpenTechSummit China 2018 https://opentechsummit.cn/
 
@@ -45,11 +46,15 @@
 ## PAPER & ARTICLE
 - 开源之道文献推荐列表  http://www.ocselected.org/posts/paper_or_book_reading/opensource_paper_list/ 
 
-
-
 ## MORE 
 - Google Open Source https://opensource.google.com/      Github  https://github.com/google
 - Facebook Open Source https://opensource.fb.com/  Github  https://github.com/facebook
 - Linkedin Open Source https://engineering.linkedin.com/open-source Github http://linkedin.github.io/
 - Alibaba Open Source  https://yq.aliyun.com/opensource  Github  https://github.com/alibaba/ 
 
+# Welcome your contribution !
+- Create a new issue to descripe your idea 
+- Wait to discussion and review 
+- Give your solution and send pull request(PR) 
+- Wait to review and merge 
+- Congratulate yourself on your first PR !
